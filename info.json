@@ -6,5 +6,5 @@
   "author": "derrick@rice.io",
   "homepage": "https://github.com/DerrickRice/factorio-rotate-quickbars",
   "description": "Rotate all visible quickbars in either direction, or increment/decrement all visible quickbars.",
-  "dependencies": ["base >= 0.17"]
+  "dependencies": ["base >= 0.17.12"]
 }
