@@ -1,3 +1,4 @@
+-- controls
 data:extend{
   {
     type = "custom-input",

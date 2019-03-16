@@ -1,10 +1,10 @@
 {
   "name": "RotateQuickbars",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "factorio_version": "0.17",
   "title": "Rotate Quickbars",
   "author": "derrick@rice.io",
   "homepage": "https://github.com/DerrickRice/factorio-rotate-quickbars",
-  "description": "Rotate all visible quickbars in either direction, or increment/decrement all visible quickbars.",
-  "dependencies": ["base >= 0.17.12"]
+  "description": "Adds the ability to rotate quickbars up or down, as well as to increment or decrement quickbars. You choose which quickbars. You choose which presets to include.",
+  "dependencies": ["base >= 0.17.13"]
 }
