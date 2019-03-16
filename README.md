@@ -52,7 +52,7 @@ Demo:
 
 ## Install
 
-Install from Factorios built-in mod search, or from [mods.factorio.com](https://mods.factorio.com)'
+Install from Factorios built-in mod search, or from https://mods.factorio.com/mod/RotateQuickbars
 
 ## Team
 
