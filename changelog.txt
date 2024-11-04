@@ -1,3 +1,7 @@
 --
 v0.9.*
   Initial release
+
+--
+v1.2.0
+  update for Factorio 2.0 SpaceAge
