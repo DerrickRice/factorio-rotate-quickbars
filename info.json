@@ -5,6 +5,6 @@
   "title": "Rotate Quickbars",
   "author": "derrick@rice.io",
   "homepage": "https://github.com/DerrickRice/factorio-rotate-quickbars",
-  "description": "Adds the ability to rotate quickbars up or down, as well as to increment or decrement quickbars. You choose which quickbars. You choose which presets to include. Forked, bcs the original mod not updated. Just updated for Factorio 2.0 compatibility",
+  "description": "Adds the ability to rotate quickbars up or down, as well as to increment or decrement quickbars. You choose which quickbars. You choose which presets to include.",
   "dependencies": ["base >= 2.0"]
 }
